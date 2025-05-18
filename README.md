@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 1. Run the application:
 ```bash
-python Trading_Rules.py
+python Trading_calculator.py
 ```
 
 2. Calculator Features:
